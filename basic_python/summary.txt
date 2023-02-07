@@ -1,0 +1,2 @@
+Learnt all the git basics and about commands like git clone, git checkout, git status, git add, git commit, git push.
+How to deal between master and branches.
